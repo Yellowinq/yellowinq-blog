@@ -12,7 +12,8 @@
     "isolatedModules": true,
     "baseUrl": "./src",
     "paths": {
-      "@components/*": ["components/*"]
+      "@components/*": ["components/*"],
+      "@pages/*": ["pages/*"]
     }
   }
 }
